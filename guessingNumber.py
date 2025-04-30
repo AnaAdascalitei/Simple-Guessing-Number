@@ -5,7 +5,7 @@ A -> B
 random no from the interval will be selected by the compiler
 the user has to guess it in the min no of guesses
 
-when the user has less than 3 guess remaining, it gets hints
+when the user has less than 3 guess remaining, it will warn the user
 '''
 import random
 
